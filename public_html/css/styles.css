@@ -195,7 +195,22 @@ body, html {
     0% { transform: translateY(0); }
     100% { transform: translateY(-10px); }
 }
-
+.logo-slider{
+    margin: 80px 0 20px;
+    padding-left: 10px;
+    
+}
+.logo-slider h4{
+    font-size: 24px;
+    line-height: 32px;
+    
+}
+.item{
+    border-radius: 1px ;
+}
+.item img{
+    padding: 70px;
+}
 .footer{
   background: black;
   color:white;
